@@ -1,4 +1,4 @@
-# AniLarm: Obstacle Detection Under the Vehicle
+# AniLarm: Offline AI for Small Animal Detection Under Cars Using Thermal Camera
 
 ## Introduction
 
