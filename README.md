@@ -40,8 +40,8 @@ AniLarm is an innovative solution designed to detect small animals hiding under 
 2. **Steps**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/SE4CPS/Obstacle-detection-under-the-vehicle.git
-     cd Obstacle-detection-under-the-vehicle/offline
+     git clone https://github.com/SE4CPS/AniLarm-Offline-AI-for-Small-Animal-Detection-Under-Cars-Using-Thermal-Camera.git
+     cd AniLarm-Offline-AI-for-Small-Animal-Detection-Under-Cars-Using-Thermal-Camera/offline
      ```
    - Run the application:
      ```bash
@@ -60,7 +60,7 @@ AniLarm is an innovative solution designed to detect small animals hiding under 
 2. **Steps**:
    - Navigate to the `online` directory:
      ```bash
-     cd Obstacle-detection-under-the-vehicle/online
+     cd AniLarm-Offline-AI-for-Small-Animal-Detection-Under-Cars-Using-Thermal-Camera/online
      ```
    - Start the Flask server:
      ```bash
